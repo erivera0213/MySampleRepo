@@ -33,7 +33,8 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
         [When("the two numbers are added")]
         public void WhenTheTwoNumbersAreAdded()
         {     
-            //removed remarks
+            //Remarks
+            //Code was added in VS
             _result = _calculator.Add();
         }
 
