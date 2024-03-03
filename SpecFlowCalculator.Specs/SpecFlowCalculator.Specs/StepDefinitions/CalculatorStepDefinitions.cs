@@ -35,6 +35,7 @@ namespace SpecFlowCalculator.Specs.StepDefinitions
         {     
             //Remarks
             //Code was added in VS
+            //feature branch
             _result = _calculator.Add();
         }
 
